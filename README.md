@@ -1,2 +1,2 @@
 # UC9
-Projeto para fins de aprendizado da tecnologia Spring Boot
+Projeto para fins de estudo da tecnologia Spring Boot
